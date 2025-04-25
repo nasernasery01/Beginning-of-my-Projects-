@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Napa Prince hotel Recipt</title>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+<h1>Napa Prince</h1>
+<p>HOTEL APARTMENTS </p>
+
+<h2>Ingredients</h2>
+<ul>
+  <li>Receved from room -------------------</li>
+  <li>MR/MRS/MISS ------------------------</li>
+  <li>The sum of Euros ---------------------</li>
+  <li> For ----------------</li>
+</ul>
+
+<section>
+  <h2>Instructions</h2>
+  <ol>
+    <li> Cash</li>
+    <li>Visa</li>
+    <li>Bank</li>
+    <li>IND</li>
+  </ol>
+  <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="if you dont have chash you have to make cooke">
+</section>
+
+
+  </body>
+   </html>
