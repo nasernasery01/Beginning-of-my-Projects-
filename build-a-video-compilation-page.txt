@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+<body>
+<main>
+    <h1>Video Compliation Page</h1>
+    <p>This is the Frist project that i user to have Video and audio.</p>
+    <section>
+        <h2>War Videos</h2>
+        <p>You will what the war doing in the world</p>
+        <iframe src="https://youtu.be/jMhEicQxNWA?si=Qc-Wh_lQSNBbWjo-"
+        title="this embedded from Youtube"
+        height="320"
+        width="350"
+        >
+        </iframe>
+    </section>
+    <section>
+        <h2>Life viedo</h2>
+        <p>You will see how life will be beautifull without war</p>
+        <iframe 
+     title="This contenet is from Youtube"
+        src="https://youtu.be/e9dZQelULDk?si=Ut_r3sfFKKNtFSHu"
+        height="320"
+        width="350"
+        >
+        </iframe>
+    </section>
+    <section>
+        <h2>Peace video</h2>
+        <p>You will see how the peace will come after all the humans know this </p>
+        <iframe
+        title="this contenet is from youtube"
+        src="https://youtu.be/KLuTLF3x9sA?si=xjS-Ax_LwIkQHgoT"
+        height="320"
+        width="350"
+        ></iframe>
+    </section>
+</main>
+</body>
+
+</html>
